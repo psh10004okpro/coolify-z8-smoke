@@ -1,2 +1,3 @@
 # coolify-z8-smoke
-Coolify Z8 git-push smoke test (auto-created)
+
+Minimal nginx page for Coolify Z8 git-push deploy test.
